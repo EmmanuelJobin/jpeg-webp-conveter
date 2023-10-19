@@ -40,4 +40,7 @@ if (!fs.existsSync(outputFolder)) {
 convertImagesInFolder(sourceFolder);
 
 
+//igyfig
+
+
 
